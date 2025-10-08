@@ -17,7 +17,8 @@ If deployed on [Hugging Face Spaces](https://huggingface.co/spaces), link it her
 ## 🚀 Run it Instantly on Google Colab
 
 > 📌 But first, insert this special code to install the required packages: # 🚀 Install dependencies
-- !pip install gradio newspaper3k transformers lxml[html_clean] torch 
+- !pip install gradio newspaper3k transformers lxml[html_clean] torch
+- use fake-news(google colab).py file
 
 ---
 
@@ -25,6 +26,7 @@ If deployed on [Hugging Face Spaces](https://huggingface.co/spaces), link it her
 
 > 📌 But first, insert this special code to install the required packages: # 🚀 Install dependencies
 - !pip install gradio newspaper3k transformers lxml[html_clean] torch
+- use fake-news(vscode).py file
 - Run on local URL:  http://127.0.0.1:7860
 
 ---
